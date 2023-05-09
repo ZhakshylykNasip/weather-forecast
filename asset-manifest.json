@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-forecast/static/css/main.a4a7234b.css",
+    "main.js": "/weather-forecast/static/js/main.7d20cb8d.js",
+    "static/media/warn.webp": "/weather-forecast/static/media/warn.3bb2d9996053124f04e2.webp",
+    "static/media/alaTooo.jpg": "/weather-forecast/static/media/alaTooo.9c01835c066187228e37.jpg",
+    "index.html": "/weather-forecast/index.html",
+    "main.a4a7234b.css.map": "/weather-forecast/static/css/main.a4a7234b.css.map",
+    "main.7d20cb8d.js.map": "/weather-forecast/static/js/main.7d20cb8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a7234b.css",
+    "static/js/main.7d20cb8d.js"
+  ]
+}
